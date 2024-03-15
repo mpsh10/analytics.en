@@ -9,7 +9,7 @@ exl-id: 6d9a52d4-e7f3-4bbc-bad4-55c79f30b9f7
 
 Create and configure list variables for use in reporting. Set their delimiter, expiration, allocation, and max values.
 
-**[!UICONTROL Analytics]** > **[!UICONTROL Admin]** > **[!UICONTROL Report Suites]** > **[!UICONTROL Edit Settings]** > **[!UICONTROL Conversion]** > **[!UICONTROL Finding Methods]**
+**[!UICONTROL Analytics]** > **[!UICONTROL Admin]** > **[!UICONTROL Report Suites]** > **[!UICONTROL Edit Settings]** > **[!UICONTROL Conversion]** > **[!UICONTROL List Variables]**
 
 * **Name**: Each delimited value can contain a maximum of 255 characters (or less if using multi-byte characters). This is the maximum length of each element.
 * **Value Delimiter**: The character used to separate values within the List Var. Most commonly these are characters such as commas, colons, pipes, or something similar.
